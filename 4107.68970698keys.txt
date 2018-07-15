@@ -1,0 +1,1 @@
+'a', '!', 'e', 'd', 'space', 'i', 'h', 'k', 'j', 'm', 'l', 'o', 'n', 's', 'r', 'u', 'w', 'shift', 'y', 'backspace', ':', 'NONE'
